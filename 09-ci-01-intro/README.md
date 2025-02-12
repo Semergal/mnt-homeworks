@@ -43,3 +43,7 @@
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
 
 ---
+![alt text](https://github.com/Semergal/mnt-homeworks/blob/MNT-video/09-ci-01-intro/img/Screenshot_1.jpg)
+
+
+![alt text](https://github.com/Semergal/mnt-homeworks/blob/MNT-video/09-ci-01-intro/img/Screenshot_2.jpg)
