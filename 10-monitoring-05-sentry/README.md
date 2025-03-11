@@ -19,12 +19,20 @@ Free Cloud account имеет ограничения:
 
 В качестве решения задания пришлите скриншот меню Projects.
 
+<img src = "img/Screenshot_1.jpg" width = 100%>
+
 ## Задание 2
 
 1. Создайте python-проект и нажмите `Generate sample event` для генерации тестового события.
 1. Изучите информацию, представленную в событии.
 1. Перейдите в список событий проекта, выберите созданное вами и нажмите `Resolved`.
 1. В качестве решения задание предоставьте скриншот `Stack trace` из этого события и список событий проекта после нажатия `Resolved`.
+
+<img src = "img/Screenshot_2.jpg" width = 100%>
+
+<img src = "img/Screenshot_3.jpg" width = 100%>
+
+<img src = "img/Screenshot_4.jpg" width = 100%>
 
 ## Задание 3
 
